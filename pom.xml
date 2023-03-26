@@ -15,6 +15,9 @@
         <module>centralmall-order</module>
         <module>centralmall-product</module>
         <module>centralmall-ware</module>
+        <module>renren-fast</module>
+        <module>renren-generator</module>
+        <module>centralmall-common</module>
     </modules>
 
 
